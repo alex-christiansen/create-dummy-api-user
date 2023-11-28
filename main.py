@@ -1,5 +1,5 @@
 import looker_sdk
-from looker_sdk import models
+from looker_sdk import models40
 
 # For this to work you must either have set environment variables or created a looker.ini as described below in "Configuring the SDK"
 sdk = looker_sdk.init40()  
